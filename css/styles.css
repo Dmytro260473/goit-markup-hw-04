@@ -69,6 +69,11 @@ img {
   gap: 40px;
 }
 
+.style {
+  display: flex;
+  justify-content: space-between;
+}
+
 .contact-list {
   display: flex;
   align-items: center;
