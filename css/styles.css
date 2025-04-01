@@ -26,7 +26,7 @@ h3 {
 }
 
 p {
-  margin: 0;
+  margin: 0 auto;
 }
 
 ul {
@@ -301,10 +301,6 @@ h2 {
 .card-text {
   text-align: center;
   padding: 32px 0;
-}
-
-.text {
-  margin-bottom: 8px;
 }
 
 .studio-list {
