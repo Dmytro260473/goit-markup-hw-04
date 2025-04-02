@@ -303,7 +303,7 @@ h2 {
   padding: 32px 0;
 }
 .text {
-  margin: 0;
+  margin-bottom: 8px;
 }
 .studio-list {
   font-weight: 500;
